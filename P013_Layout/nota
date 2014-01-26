@@ -1,0 +1,14 @@
+Layout: 
+- LinearLayout: Distribuye los elementos en una fila o Columna.
+- TableLayout: Distribuye los elementos en forma  de tabla
+- RelativeLayout: Distribuye los elementos uno en relacion a otro.
+- AbsoluteLayout: Indica las coordenadas X e Y de cada elemento. (Deprecated)
+- FrameLayout: Permite poner varios elementos uno sobre otro, controlando su visibilidad
+
+Otros Layouts:
+- ScrollView: Visualiza una columna de elementos, cuando estos no caben en pantalla se permite un deslizamiento.
+- ListView: Visualiza una lista deslizable verticalmente de varios elementos.
+- GridView: Visualiza una cuadricula deslizable de varias filas y varias columnas.
+- TabHost: Proporciona una lista de ventanas selccionables por medio de eitquetas que pueden ser pulsadas por el usuario para seleccionar la ventana que se desea visualizar.
+- ViewFilpper: Permite visualizar una lista de elementos de forma que se visualice uno cada vez. Puede ser utilizado para intercambiar los elementos cada cierto intervalo de tiempo.
+

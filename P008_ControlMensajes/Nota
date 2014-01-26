@@ -1,0 +1,4 @@
+Tecnicas para mostrar mensaje:
+- Toast "emergente"
+- Dialog with layout
+- TextView
